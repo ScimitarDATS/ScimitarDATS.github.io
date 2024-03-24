@@ -26,7 +26,7 @@ baseurl: "/DATS" # the subpath of your site, e.g. /blog
 url: "https://ScimitarDATS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  ScimitarDATS
-author:Scimitar
+author: Scimitar
 author_url: https://github.com/ScimitarDATS
 google_analytics: G-87LMJW17RN
 
